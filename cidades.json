@@ -1,14 +1,14 @@
 [
         {
                 "key": "JLLE",
-                "latitude": -26.3051,
-                "longitude": -48.8461,
+                "latitude": -26.242637,
+                "longitude": -48.881253,
                 "name": "Joinville"
         },
         {
                 "key": "SFS",
-                "latitude": -26.2438,
-                "longitude": -48.6383,
+                "latitude": -26.320655,
+                "longitude": -48.846130,
                 "name": "Sao Franscisco Do Sul"
         }
 ]
