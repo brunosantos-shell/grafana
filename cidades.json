@@ -10,5 +10,23 @@
                 "latitude": -26.320655,
                 "longitude": -48.846130,
                 "name": "EDD-APOLO-BS-000.100"
+        },
+        {
+                "key": "EDD-SOC-000.022",
+                "latitude": -26.288328,
+                "longitude": -48.813388,
+                "name": "EDD-SOC-000.022"
+        },
+        {
+                "key": "EDD-SUPERMERCADOPOVO-COMASA-000.251",
+                "latitude": -26.283243,	
+                "longitude": -48.801385,
+                "name": "EDD-SUPERMERCADOPOVO-COMASA-000.251"
+        },
+        {
+                "key": "EDD-SOCIESC-ANITA-000425",
+                "latitude": -26.319419,
+                "longitude": -48.855450,
+                "name": "EDD-SOCIESC-ANITA-000425"
         }
 ]
